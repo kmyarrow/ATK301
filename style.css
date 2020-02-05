@@ -55,6 +55,9 @@ h4{
 color: #FFFFFF;
 background-color:#000000;
 }
+.customtext{
+  font-family: sans-serif;
+}
 a {
  color: #ff0000;
  text-decoration: none;

@@ -1,0 +1,44 @@
+.textcenter{
+  text-align: center;
+}
+.imgbox{
+border:10px solid #00090A;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color:#00090A;
+}
+.imgbo{
+border:10px solid #00090A;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color:#fcfcfc;
+}
+.textjustify{
+  text-align: justify;
+}
+body{
+  background-color:#0CCBD8;
+}
+p{
+  font-family: sans-serif;
+}
+h1{
+  color: #E96629;
+  font-style: italic;
+  font-weight: normal;
+}
+h2{
+  color: #E96629;
+  font-style: italic;
+  font-weight: normal;
+}
+h3{
+color: #E96629;
+font-style: italic;
+font-weight: normal;
+}
+h4{
+  color: #E96629;
+  font-style: italic;
+  font-weight: normal;
+}
