@@ -1,0 +1,45 @@
+h1{
+  color: #FFFFFF;
+  background-color: #9BA8F6;
+}
+h2{
+  color:#0924D1;
+}
+
+h3{
+  background-color: #F5EB2D;
+}
+
+h4{
+ color: #F5EB2D;
+ background-color: #088012;
+}
+
+h5{
+  color:#A93BAE;
+}
+
+a{
+  color: #319A3C;
+  text-decoration:none;
+}
+a:hover{
+  color:#ff0000;
+  text-decoration:underline;
+}
+
+header{
+  background-color: #9BA8F6;
+}
+
+.spanstyle{
+  color: #F5872D;
+}
+
+.redtext{
+  color: #ff0000;
+}
+
+.greenhighlight{
+  background-color: #84EA92;
+}
