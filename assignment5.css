@@ -1,0 +1,38 @@
+.borderbottom{
+   border-bottom: 1px solid #CF21D8;
+   width:50%;
+}
+
+.redstylee{
+  color:#DB0F12;
+}
+.redstyle{
+  color:#DB0F12;
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+.purplestyle{
+color: #6F1AEF;
+font: bold 20px sans-serif;
+}
+.pinkstyle{
+  color: #FB50EA;
+}
+.ptfont{
+  font-size: 20pt;
+}
+
+h1{
+  font: bold 80pt sans-serif;
+  text-align: center;
+  width: 50%
+}
+h3{ color: #6F1AEF;
+  font: bold 10px sans-serif;
+}
+
+body{
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-color:#FCD435;
