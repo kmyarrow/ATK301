@@ -1,6 +1,7 @@
 .borderbottom{
    border-bottom: 1px solid #CF21D8;
    width:50%;
+   padding:20px 0px 0 0;
 }
 
 .redstylee{
@@ -25,14 +26,28 @@ font: bold 20px sans-serif;
 h1{
   font: bold 80pt sans-serif;
   text-align: center;
-  width: 50%
+  width: 50%;
+  margin-bottom:100px;
 }
 h3{ color: #6F1AEF;
   font: bold 10px sans-serif;
+  margin-bottom: 10px;
 }
 
 body{
   background-image: url(Lakeith.jpg);
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: top left;
   background-color:#FCD435;
+  padding:110px;
+  width: 80%;
+
+  nav{
+    padding:10px;
+    margin:10px;
+  }
+
+header{
+  padding: 40px;
+  margin: 10px;
+}
