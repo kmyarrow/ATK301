@@ -1,0 +1,82 @@
+/*This is my new stylesheet*/
+/*
+p{
+  color:#ff0000;
+}
+this is the colr red
+*/
+h1{
+  color: #EC2B2B;
+}
+/*This is the color red for the title*/
+h2{
+  background-color: #ff0000;
+}
+h3{
+  background-color: #ff0000;
+}
+h4{
+  background-color: #ff0000;
+}
+#orderedlist{
+  color: #FEFAFB;
+  background-color:#ff0000;
+}
+#specialid {
+  color: #2A0202;
+ background-color: #00ff00;
+}
+/*this is dark red and green and the names of is can be anything and can only be used once*/
+/*the names for classes can be anything and can be used many times*/
+.specialp {
+ color: #0000ff;
+}
+/*this is blue*/
+.fine{
+  Background-color: #ff0000;
+}
+/*this is red*/
+.core{
+  background-color: #ff0000;
+}
+.add{
+  background-color: #ff0000;
+}
+.art{
+  background-color: #ff0000;
+}
+.music{
+  background-color: #ff0000;
+}
+.tea{
+  background-color: #ff0000;
+}
+.spanstyle{
+color: #FFFFFF;
+background-color:#000000;
+}
+.customtext{
+  font-family: sans-serif;
+}
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+a:link {
+ color: #ff0000;
+}
+/*this is blue*/
+a:visited {
+ color: #19B011;
+}
+/*this is purple*/
+
+/*a:active {
+ color: #ff0000;
+}
+this is a darker red*/
+a:hover {
+  color: #F3EF10;
+ text-decoration: underline;
+}
