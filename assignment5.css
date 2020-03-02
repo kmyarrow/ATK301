@@ -6,7 +6,6 @@
 .redstylee{
   color:#DB0F12;
   font-size:95px;
-  font
 }
 .pinkstylee {
     color: #FB50EA;
@@ -35,11 +34,16 @@ h1{
   font-family: impact;
   padding-bottom: 390px;
   text-align: left;
-  padding-right: 50px;
+  border: 0px solid: red;
+  margin: 0;
+  padding: 0;
+  line-height: 100px;
 }
 
 h3 {color: #6F1AEF;
 font: bold 20px impact;
+padding-bottom: 10px;
+margin-bottom: 10px;
 }
 
 body{
@@ -49,6 +53,10 @@ body{
   background-position: top left;
   background-color: #FCD435;
   width: 700px;
+}
+main{
+  text-align: justify;
+  margin-top: 540px;
 }
 a{
 text-decoration: none;
