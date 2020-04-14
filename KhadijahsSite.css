@@ -1,0 +1,90 @@
+body {
+  background-color: #999999;
+}
+
+#wrapper {
+  margin: 24px auto;
+  width: 1300px;
+  border: 1px solid black;
+  padding: 24px;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+}
+
+header {
+  grid-column: span 12;
+  background-color: #C97D7D;
+  color: white;
+  font-family: Georgia, Arial, sans-serif;
+  font-size: 35px;
+  padding-left: 24px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+#mainimg{
+  grid-column: span 12;
+}
+
+nav{
+  grid-column:span 12;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0;
+  padding: 40;
+}
+
+nav li{
+  display: inline-block;
+  margin-bottom: 14px;
+  margin-right: 90px;
+}
+
+
+nav li a {
+  display: block;
+  background-color: black;
+  color: white;
+  width: 90%;
+  font-family: Georgia, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 24px;
+  margin:24px;
+  grid-column: span 12;
+  text-transform: uppercase;
+}
+
+main{
+  grid-column: span 12;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+}
+
+section {
+  grid-column: span 4;
+}
+
+section h2{
+  font-family: Georgia, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+   border-bottom: 4px solid black;
+}
+
+footer{
+  grid-column: span 12;
+  background-color: #C97D7D;
+  color: black;
+  font-family: Georgia, Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
