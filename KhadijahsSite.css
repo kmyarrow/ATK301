@@ -32,6 +32,7 @@ h1{
 
 #mainimg{
   grid-column: span 12;
+   margin-left: 10px;
 }
 
 nav{
@@ -126,6 +127,7 @@ footer{
   font-size: 20px;
   text-align: center;
   font-style: italic;
+  border-radius: 24px;
 }
 
 footer i{
