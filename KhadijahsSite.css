@@ -127,3 +127,8 @@ footer{
   text-align: center;
   font-style: italic;
 }
+
+footer i{
+  color: #ADE7F5;
+  font-size: 48px;
+}
