@@ -109,7 +109,14 @@ section p{
   box-shadow: 10px 10px 15px #666; /* x, y, blur, color */
   border-radius: 24px;
 }
-
+.roundedbox2 {
+  grid-column: 6;
+  padding: 50px;
+  border: 3px solid #C97D7D;
+  background-color: #ADE7F5;
+  box-shadow: 10px 10px 15px #666; /* x, y, blur, color */
+  border-radius: 24px;
+}
 
 .dropshadowbox {
   padding: 10px;
