@@ -89,7 +89,7 @@ section {
 
 section h2{
   font-family: 'Prata', serif;
-  font-size: 20px;
+  font-size: 35px;
   font-weight: bold;
    border-bottom: 4px solid black;
 }
@@ -108,6 +108,7 @@ section p{
   background-color: #ADE7F5;
   box-shadow: 10px 10px 15px #666; /* x, y, blur, color */
   border-radius: 24px;
+  font-size: 30px;
 }
 .roundedbox2 {
   grid-column: span 6;
@@ -117,6 +118,16 @@ section p{
   box-shadow: 10px 10px 15px #666; /* x, y, blur, color */
   border-radius: 24px;
 }
+.roundedbox3 {
+  grid-column: span 12;
+  padding: 24px;
+  border: 15px solid #C97D7D;
+  background-color: #ADE7F5;
+  box-shadow: 10px 10px 15px #666; /* x, y, blur, color */
+  border-radius: 24px;
+  font-size: 30px;
+}
+
 .redtext{
 color: red;
 font-weight: bold;
